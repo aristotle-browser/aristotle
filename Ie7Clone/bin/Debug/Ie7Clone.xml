@@ -1,0 +1,345 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Ie7Clone
+</name>
+</assembly>
+<members>
+<member name="M:Ie7Clone.exBrowser.ShowInternetOptions">
+	<summary>
+ This Will launch the internet option dialog.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Ie7Clone.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources._173_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources._191_21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources._1DocExp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources._1feed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources._218_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources._553_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources._719">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.addfav">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.allwindows">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.allwindows2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.AppName">
+	<summary>
+  Looks up a localized string similar to IE 7 Clone.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.BackgroundOffWhite">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Blocked">
+	<summary>
+  Looks up a localized string similar to &lt;html&gt;
+
+&lt;head&gt;
+&lt;title&gt;This site had been blocked.&lt;/title&gt;
+&lt;meta name="generator" content="Namo WebEditor v5.0"&gt;
+&lt;/head&gt;
+
+&lt;body bgcolor="white" text="black" link="blue" vlink="purple" alink="red"&gt;
+&lt;p align="center"&gt;&lt;font face="Tahoma"&gt;&lt;b&gt;This site has been blocked.&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font face="Tahoma"&gt;&amp;nbsp;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font face="Tahoma"&gt;To see this site please remove it from 
+your blocked list.&lt;/font&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;p align="center"&gt;
+&lt;font face="Tahoma"&gt;&lt;a [rest of string was truncated]";.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.bulb16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.busy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.busy1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.but_print_l">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.check2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.cookie">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.cp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Cut">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.delCookie">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Delete16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Design_Mode">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.dl_Largepng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.dlimage_sm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Download_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.favDock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.feed1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.folder2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.folder3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Forward">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Gear">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Globe">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Google1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.history">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Home16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Home32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.i_print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.it_search0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.LargeGlobe">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Lock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.LockOpen">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.NoPopUp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Open">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.page16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.page161">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Paste">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.popallowed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.popBlocked">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Properties">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.refresh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.refresh16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.refresh32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.refresh321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.seqarch_lg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.shield_exc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.shield_exc16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.shieldQ">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.shieldQ16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Star">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Star2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.StartPage">
+	<summary>
+  Looks up a localized string similar to &lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;Example Browser - Start Page&lt;/title&gt;
+&lt;/head&gt;
+
+&lt;body bgcolor="white" text="black" link="blue" vlink="purple" alink="red"&gt;
+&lt;p align="center"&gt;&lt;font face="Tahoma" size="4"&gt;&lt;b&gt;Working with the WebBrowser Control 
+in Visual Studio 2005.&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font face="Tahoma" size="2"&gt;&lt;b&gt;1st&lt;/b&gt;&lt;/font&gt;&lt;font face="Tahoma"&gt;&lt;b&gt;: &lt;/b&gt;&lt;/font&gt;&lt;font face="Tahoma" size="2"&gt;&lt;b&gt;Please 
+vote for this example on the site you found it on if you find it useful.&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p  [rest of string was truncated]";.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Stop16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.tab_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.tick">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.white_bg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.white_bg1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.Windows_Pop_up_Blocked">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Ie7Clone.My.Resources.Resources.wrench_orange">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Ie7Clone.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
