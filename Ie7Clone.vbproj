@@ -493,9 +493,6 @@
     <None Include="Resources\bulb16.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Scratch\Google.ico" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\Google.png" />
   </ItemGroup>
   <ItemGroup>
@@ -548,6 +545,26 @@
     <None Include="Resources\feed1.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ClassFiles\WebBrowser.cs" />
+    <Content Include="ClassFiles\WebBrowser.WebBrowserEvent.cs" />
+    <Content Include="ClassFiles\WebBrowser.WebBrowserSite.cs" />
+    <Content Include="ClassFiles\WebBrowserBase.cs" />
+    <Content Include="ClassFiles\WebBrowserBase.WebBrowserBaseNativeWindow.cs" />
+    <Content Include="ClassFiles\WebBrowserContainer.cs" />
+    <Content Include="ClassFiles\WebBrowserDocumentCompletedEventArgs.cs" />
+    <Content Include="ClassFiles\WebBrowserDocumentCompletedEventHandler.cs" />
+    <Content Include="ClassFiles\WebBrowserEncryptionLevel.cs" />
+    <Content Include="ClassFiles\WebBrowserHelper.cs" />
+    <Content Include="ClassFiles\WebBrowserNavigatedEventArgs.cs" />
+    <Content Include="ClassFiles\WebBrowserNavigatedEventHandler.cs" />
+    <Content Include="ClassFiles\WebBrowserNavigatingEventArgs.cs" />
+    <Content Include="ClassFiles\WebBrowserNavigatingEventHandler.cs" />
+    <Content Include="ClassFiles\WebBrowserProgressChangedEventArgs.cs" />
+    <Content Include="ClassFiles\WebBrowserProgressChangedEventHandler.cs" />
+    <Content Include="ClassFiles\WebBrowserReadyState.cs" />
+    <Content Include="ClassFiles\WebBrowserRefreshOption.cs" />
+    <Content Include="ClassFiles\WebBrowserSiteBase.cs" />
+    <Content Include="ClassFiles\WebBrowserUriTypeConverter.cs" />
     <Content Include="MDITabs\TabCredit.txt" />
     <None Include="Resources\StartPage.htm" />
     <None Include="Resources\delCookie.png" />
